@@ -16,3 +16,7 @@
 - Report includes the physical item information for all unique barcodes under a title heading, including ones not in a temp location at a reserve desk.
 
 - Once the report is downloaded, select a cell in the area containing data and select "Format as Table". This will allow you to drill down to specific subsets of reserves or items.
+
+### Acknowledgements
+
+A big thank you to Dolsy Smith (GWU Library) for his excellent segment in the ELUNA learns 2020 - Alma Developer Deep Dives, titled *Optimized Python for Working with Data and API's*. The asyncronous code examples were very helpful in understanding how to construct async api calls in Python.
