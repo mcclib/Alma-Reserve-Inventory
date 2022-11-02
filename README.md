@@ -19,4 +19,4 @@
 
 ### Acknowledgements
 
-A big thank you to Dolsy Smith (GWU Library) for his excellent segment in the ELUNA learns 2020 - Alma Developer Deep Dives, titled *Optimized Python for Working with Data and API's*. The asyncronous code examples were very helpful in understanding how to construct async api calls in Python.
+A big thank you to Dolsy Smith (GWU Library) for his excellent presentation in the ELUNA learns 2020 - Alma Developer Deep Dives, *Optimized Python for Working with Data and API's*. The asyncronous code examples were very helpful in understanding how to construct async api calls in Python and I used some of the same structures in this code.
