@@ -1,6 +1,6 @@
 # Alma Citation Item Report
 
-[Video Guide](https://youtu.be/q-sS8sSg2Ks)
+[Video Guide](https://youtu.be/9e6h1qcpxas)
 
 ## Requirements
 - Create a keys.env file within your runtime environment or source folder. Enter your bibs key (read only) as bibKey=bibkeyhere, and on a new line enter your courses key (read only) as courseKey=coursekeyhere.
