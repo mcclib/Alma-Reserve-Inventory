@@ -11,7 +11,7 @@
 
 ### General Information
 
-- Columns in final report: ['course code', 'title', 'author', 'instructor', 'edition','call number', 'isbn', 'barcode', 'permanent location', 'temp location', 'in temp location', 'temp call number', 'temp policy', 'due back date', 'course end date']
+- Columns in final report: course code, title, author, instructor, edition, call number, isbn, barcode, permanent location, temp location, in temp location, temp call number, temp policy, due back date, course end date.
 
 - Report includes the physical item information for all unique barcodes under a title heading, including ones not in a temp location at a reserve desk.
 
