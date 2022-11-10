@@ -7,7 +7,7 @@
 
 - Generate an analytics report that contains the following columns: Citation Id, Course ID, Course Code, Course Instructor, Reading List Id, Current Course End Date, MMS Id. Leave column names default. Download as data > excel format. Name it citation ids.xlsx and upload it to the runtime environment.
 
-- If you're using Google Colab to generate the report, you'll need to install both the asyncio-throttle and python-dotenv libraries. To do so, use the following pip commands: !pip install python-dotenv, !pip install asyncio-throttle.
+- If you're using Google Colab to generate the report, you'll need to install both the asyncio-throttle and python-dotenv libraries. To do so, use the following pip commands: `!pip install python-dotenv`, `!pip install asyncio-throttle`.
 
 ### General Information
 
