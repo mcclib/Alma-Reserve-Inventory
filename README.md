@@ -14,15 +14,16 @@
 `analyticsKey=analyticskeyhere`
 
 
-- If you're not using Google Colab, delete the pip commands after you install the required libraries the first time.
-
 ### General Information
+
+- If you're not using Google Colab, delete the pip commands after you install the required libraries the first time.
 
 - Columns in final report: course code, title, author, instructor, edition, call number, isbn, barcode, permanent location, temp location, in temp location, temp call number, temp policy, due back date, course end date.
 
 - Report includes the physical item information for all unique barcodes under a title heading, including ones not in a temp location at a reserve desk.
 
 - Once the report is downloaded, select a cell in the area containing data and select "Format as Table". This will allow you to drill down to specific subsets of reserves or items.
+
 
 ### Acknowledgements
 
