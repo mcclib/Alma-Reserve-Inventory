@@ -1,8 +1,7 @@
 # Alma Citation Item Report
 
-[Video Guide](https://youtu.be/9e6h1qcpxas)
+[Video Guide](https://youtu.be/rnMnAU4dLGk)
 
-*Video is outdated. This no longer requires you to download an analytics report. Simply pull the file into Colab or your preferred IDE, place a keys.env file in the runtime folder with the three required read-only API keys (bibs, courses, analytics), and run all code cells.*
 
 ## Requirements
 - Create a keys.env file within your runtime environment or source folder. Enter your bibs key (read only) as bibKey=bibkeyhere, and on a new lines enter your courses key (read only) as courseKey=coursekeyhere, and your analytics key as analyticsKey=analyticskeyhere. It should look like this:
