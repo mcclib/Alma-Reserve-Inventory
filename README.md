@@ -1,8 +1,5 @@
 # Alma Citation Item Report
 
-[Video Guide](https://youtu.be/rnMnAU4dLGk)
-
-
 ## Requirements
 - Create a keys.env file within your runtime environment or source folder. Enter your bibs key (read only) as bibKey=bibkeyhere, and on a new lines enter your courses key (read only) as courseKey=coursekeyhere, and your analytics key as analyticsKey=analyticskeyhere. It should look like this:
     
