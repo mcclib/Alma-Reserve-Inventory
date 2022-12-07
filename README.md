@@ -2,6 +2,9 @@
 
 [Video Guide](https://youtu.be/nmApjxm8vFE)
 
+## Overview
+This notebook can be used to generate an excel spreadsheet (xlsx format) that contains the physical item information for your course reserve citations in Alma. Think of it like being able to combine the Courses and Physical Items subject areas in an Analytics report. The code makes a series of API calls, first to a shared report in Analytics that contains some basic course information, some of which is included in the final report and some of which is used to build the physical item API calls. For each MMS ID a Bibs call is made. If items exist under that bib, the item information is linked to the course. If it doesn't, a Courses call is made to retrieve Citation information.
+
 ## Requirements
 - Create a keys.env file within your runtime environment or source folder. Enter your bibs key (read only) as bibKey=bibkeyhere, and on a new lines enter your courses key (read only) as courseKey=coursekeyhere, and your analytics key as analyticsKey=analyticskeyhere. It should look like this:
     
